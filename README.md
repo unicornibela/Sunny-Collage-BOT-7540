@@ -1,2 +1,2 @@
-# Sunny-Collage-BOT-7540
+# Sunny-Collage
 Hello, I'm just a BOT
